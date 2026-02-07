@@ -1,64 +1,77 @@
-# WELL Token (WellPay)
+# WELL Token — Rewards for Healthy Habits
 
-WELL is a fixed-supply ERC-20 utility token deployed on the Base blockchain.
+WELL is a community rewards token built on the Base blockchain that encourages healthy habits through simple, achievable goals.
 
-The token is designed to support future on-chain utilities, payment-related use cases, and ecosystem integrations that prioritize transparency, simplicity, and predictable behavior.
+Instead of focusing on intensity or competition, WELL rewards consistency — starting with daily step goals, streaks, and community challenges.
 
 ---
 
-## Token Overview
+## 🌱 How WELL Works
+
+1. **Track Steps**  
+   Users track steps using Apple Health, Google Fit, or manual check-ins (early phase).
+
+2. **Build Streaks**  
+   Consistency is rewarded through daily step goals and streak completion.
+
+3. **Earn WELL**  
+   WELL tokens are earned by completing challenges and maintaining healthy habits.
+
+WELL is designed to support long-term habit building, not short-term hype.
+
+---
+
+## 🔗 Token Details
 
 - **Token Name:** WELL  
-- **Symbol:** WELL  
-- **Network:** Base  
+- **Blockchain:** Base  
 - **Standard:** ERC-20  
-- **Total Supply:** 100,000,000 WELL (fixed)
+- **Fixed Supply:** 100,000,000 WELL  
+- **Contract Address:**  
+  `0xC90975f5467fc11dE64D47F0042D11C698A462Ae`
 
-The full supply was minted at deployment.  
-There are **no minting functions**, **no rebasing**, **no transaction taxes**, and **no hidden administrative controls**.
-
----
-
-## Purpose
-
-WELL is intended for utility use within future decentralized applications and services.
-
-It does **not** represent:
-- Equity
-- Ownership
-- Governance rights
-- Shares in a company
-- Investment contracts
+- **Contract Verification:** BaseScan  
+- **Liquidity:** Locked  
 
 ---
 
-## Smart Contract
+## 🌐 Links
 
-- Fully deployed and immutable
-- Uses standard OpenZeppelin ERC-20 implementation
-- Compatible with standard wallets and decentralized applications
-
-Official contract address and on-chain activity can be verified via BaseScan.
+- **Website:** https://sites.google.com/view/well-token/home  
+- **BaseScan (Verified Contract):** https://basescan.org/address/0xC90975f5467fc11dE64D47F0042D11C698A462Ae  
+- **GitHub:** https://github.com/wellpayproject/wellpay-token
 
 ---
 
-## Transparency & Security
+## 🗺️ Roadmap
 
-- Fixed supply
-- No privileged minting
-- No upgradeability
-- Public and verifiable contract
-- Open-source repository
+**Phase 1 — Foundation**
+- Token deployment on Base
+- Fixed supply with no minting
+- Liquidity added and locked
+- Website launch
+- Manual step challenge concept
+
+**Phase 2 — Community Challenges**
+- Step-based challenges
+- Step streak rewards
+- Community participation tracking
+
+**Phase 3 — Integration**
+- Health app integrations
+- Automated tracking
+- Partner rewards and wellness incentives
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-WELL is a utility token. Nothing in this repository constitutes financial advice or an offer of securities. Users should perform their own research and understand the risks involved before interacting with any blockchain-based asset.
+WELL is a community rewards token and is not medical advice or a medical product.  
+WELL does not diagnose, treat, cure, or prevent any disease.  
+Participation is voluntary and rewards are not guaranteed.
 
 ---
 
-## Official Links
+## 📜 License
 
-- Website: https://www.wellpayproject.com
-- GitHub: https://github.com/wellpayproject/wellpay-token
+MIT License
